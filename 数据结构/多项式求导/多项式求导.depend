@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602753994 source:d:\myprojects\数据结构\多项式求导\main.c
+	<stdio.h>
+	<stdlib.h>
+

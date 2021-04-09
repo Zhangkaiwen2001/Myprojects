@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573639921 source:d:\myprojects\shaobo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1573639921 source:d:\myprojects\package\c\shaobo√‘π¨\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

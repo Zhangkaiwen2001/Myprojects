@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1585148641 source:d:\myprojects\c++\debugging\animal.cpp
+	<iostream>
+	"Animal.h"
+	"Dog.h"
+	"Lion.h"
+
+1585143471 d:\myprojects\c++\debugging\animal.h
+	<string>
+
+1585179952 d:\myprojects\c++\debugging\dog.h
+	"Animal.h"
+
+1585132633 d:\myprojects\c++\debugging\lion.h
+	"Animal.h"
+
+1585148499 source:d:\myprojects\c++\debugging\debugging.cpp
+	<iostream>
+	"Animal.h"
+	"Lion.h"
+	"Dog.h"
+

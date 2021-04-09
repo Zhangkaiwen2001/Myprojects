@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604804760 source:d:\myprojects\数据结构\六度空间-floyd\main.c
+	<stdio.h>
+	<stdlib.h>
+

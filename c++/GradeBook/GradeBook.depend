@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1101115864 source:d:\ding\c++程序设计\2017春季学期\lectures\lecture03\gradebook\fig03_17.cpp
+	<iostream>
+	"GradeBook.h"
+
+1098491126 d:\ding\c++程序设计\2017春季学期\lectures\lecture03\gradebook\gradebook.h
+	<string>
+
+1101115864 source:d:\ding\c++程序设计\2017春季学期\lectures\lecture03\gradebook\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1101115864 source:d:\lecture02\notes\gradebook\fig03_17.cpp
+	<iostream>
+	"GradeBook.h"
+
+1098491126 d:\lecture02\notes\gradebook\gradebook.h
+	<string>
+
+1101115864 source:d:\lecture02\notes\gradebook\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
+1582601522 source:d:\myprojects\c++\gradebook\fig03_17.cpp
+	<iostream>
+	"GradeBook.h"
+
+1582600181 d:\myprojects\c++\gradebook\gradebook.h
+	<string>
+
+1582601026 source:d:\myprojects\c++\gradebook\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+

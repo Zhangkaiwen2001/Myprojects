@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605345549 source:d:\myprojects\数据结构\查找-基于词频的文件相似度\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

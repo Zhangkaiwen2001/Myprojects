@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Schedule">
+    <file>Resources/icon.png</file>
+    <file>Resources/bg.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603530925 source:d:\myprojects\数据结构\还原二叉树并求二叉树深读\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

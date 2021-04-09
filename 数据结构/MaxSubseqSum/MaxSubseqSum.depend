@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601304772 source:d:\myprojects\数据结构\maxsubseqsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

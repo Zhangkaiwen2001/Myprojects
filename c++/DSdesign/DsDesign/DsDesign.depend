@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607929230 source:d:\myprojects\c++\dsdesign\dsdesign\main.cpp
+	<iostream>
+	<stdio.h>
+	<stack>
+	<stdlib.h>
+	<string>
+

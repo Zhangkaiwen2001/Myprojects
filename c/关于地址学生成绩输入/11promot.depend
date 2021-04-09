@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573715687 source:d:\myprojects\11promot\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573715687 source:d:\myprojects\c\11promot\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573715687 source:d:\myprojects\package\c\11promot\main.c
+	<stdio.h>
+	<stdlib.h>
+

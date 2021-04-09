@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602067703 source:d:\myprojects\数据结构\kmp算法\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

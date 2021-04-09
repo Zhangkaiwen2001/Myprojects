@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575380615 source:d:\myprojects\14\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
+1575381617 source:d:\myprojects\package\c\14\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+
+1575381617 source:d:\myprojects\package\c\รินฌ\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+

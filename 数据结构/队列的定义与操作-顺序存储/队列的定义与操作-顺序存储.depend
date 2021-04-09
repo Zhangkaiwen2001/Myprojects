@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604577525 source:d:\myprojects\数据结构\队列的定义与操作-顺序存储\main.c
+	<stdio.h>
+	<stdlib.h>
+

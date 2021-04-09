@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1585542405 source:d:\myprojects\c++\car\car.cpp
+	<iostream>
+	"car.h"
+
+1585542330 d:\myprojects\c++\car\car.h
+	<iostream>
+	<string>
+
+1585794760 source:d:\myprojects\c++\car\driver.cpp
+	<iostream>
+	"car.h"
+	"racecar.h"
+
+1585538385 d:\myprojects\c++\car\racecar.h
+	"car.h"
+
+1585540440 source:d:\myprojects\c++\car\racecar.cpp
+	<iostream>
+	"racecar.h"
+

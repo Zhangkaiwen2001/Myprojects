@@ -1,0 +1,14 @@
+release/qrc_rse.o
+release/choosewindow.o
+release/dialog.o
+release/divwindow.o
+release/main.o
+release/mulwindow.o
+release/subwindow.o
+release/sumwindow.o
+release/moc_choosewindow.o
+release/moc_dialog.o
+release/moc_divwindow.o
+release/moc_mulwindow.o
+release/moc_subwindow.o
+release/moc_sumwindow.o

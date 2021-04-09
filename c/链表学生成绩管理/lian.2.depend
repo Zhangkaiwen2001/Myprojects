@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577497974 source:d:\myprojects\lian.2\main.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+
+1577497974 source:d:\myprojects\package\c\lian.2\main.c
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+

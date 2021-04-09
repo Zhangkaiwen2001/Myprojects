@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1571839814 source:d:\myprojects\project1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1571904322 source:d:\myprojects\dalao进阶.6\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
+1573116265 source:d:\myprojects\dalao进阶.7\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
+1573116308 source:d:\myprojects\c\进制转换\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+

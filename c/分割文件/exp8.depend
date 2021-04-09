@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576052009 source:d:\myprojects\exp8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602072809 source:d:\myprojects\数据结构\链表逆置\main.c
+	<stdio.h>
+	<stdlib.h>
+

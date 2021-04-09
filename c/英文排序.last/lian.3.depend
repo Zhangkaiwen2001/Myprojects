@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573644903 source:d:\myprojects\lian.3\main.c
+	<stdio.h>
+	<string.h>
+

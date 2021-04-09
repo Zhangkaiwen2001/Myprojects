@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.egg-info/
+*.egg
+
+.pytest_cache/
+
+/res/testsuite

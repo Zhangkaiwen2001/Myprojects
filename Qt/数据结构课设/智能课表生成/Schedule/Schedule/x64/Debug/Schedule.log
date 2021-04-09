@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/7/9 15:26:14。
+     1>项目“D:\qt project\Schedule\Schedule\Schedule.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_login.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_login.cpp, GeneratedFiles\Release\moc_login.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_secretary.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_secretary.cpp, GeneratedFiles\Release\moc_secretary.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_student.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_student.cpp, GeneratedFiles\Release\moc_student.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_teacher.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_teacher.cpp, GeneratedFiles\Release\moc_teacher.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_timetable.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_timetable.cpp, GeneratedFiles\Release\moc_timetable.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_timetabwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_timetabwidget.cpp, GeneratedFiles\Release\moc_timetabwidget.cpp.
+     1>ClCompile:
+         D:\Program Files (x86)\vs2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt\5.4\msvc2013_64\include /I.\GeneratedFiles\Debug /ID:\qt\5.4\msvc2013_64\include\QtCore /ID:\qt\5.4\msvc2013_64\include\QtGui /ID:\qt\5.4\msvc2013_64\include\QtNetwork /ID:\qt\5.4\msvc2013_64\include\QtSql /ID:\qt\5.4\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_SQL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt login.cpp
+         login.cpp
+       Link:
+         D:\Program Files (x86)\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\qt project\Schedule\x64\Debug\\Schedule.exe" /NOLOGO /LIBPATH:D:\qt\5.4\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Sqld.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\qt project\Schedule\x64\Debug\Schedule.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\qt project\Schedule\x64\Debug\Schedule.lib" /MACHINE:X64 x64\Debug\moc_login.obj
+         x64\Debug\moc_secretary.obj
+         x64\Debug\moc_student.obj
+         x64\Debug\moc_teacher.obj
+         x64\Debug\moc_timetable.obj
+         x64\Debug\moc_timetabwidget.obj
+         x64\Debug\qrc_schedule.obj
+         x64\Debug\login.obj
+         x64\Debug\main.obj
+         x64\Debug\secretary.obj
+         x64\Debug\student.obj
+         x64\Debug\teacher.obj
+         x64\Debug\timetable.obj
+         x64\Debug\timetabwidget.obj
+         Schedule.vcxproj -> D:\qt project\Schedule\x64\Debug\Schedule.exe
+     1>已完成生成项目“D:\qt project\Schedule\Schedule\Schedule.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.37

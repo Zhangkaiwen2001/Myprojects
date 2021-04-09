@@ -1,0 +1,14 @@
+debug/qrc_rse.o
+debug/choosewindow.o
+debug/dialog.o
+debug/divwindow.o
+debug/main.o
+debug/mulwindow.o
+debug/subwindow.o
+debug/sumwindow.o
+debug/moc_choosewindow.o
+debug/moc_dialog.o
+debug/moc_divwindow.o
+debug/moc_mulwindow.o
+debug/moc_subwindow.o
+debug/moc_sumwindow.o

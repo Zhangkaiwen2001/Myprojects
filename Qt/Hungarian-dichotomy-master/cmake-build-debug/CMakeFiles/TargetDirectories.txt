@@ -1,0 +1,3 @@
+D:/CSE/jetbrains/clion/C_plus_plus/taks_B/oral_code/cmake-build-debug/CMakeFiles/untitled_class.dir
+D:/CSE/jetbrains/clion/C_plus_plus/taks_B/oral_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CSE/jetbrains/clion/C_plus_plus/taks_B/oral_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
