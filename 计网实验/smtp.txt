@@ -1,0 +1,17 @@
+telnet smtp.163.com 25
+helo 123
+auth login
+emhhbmdrYWl3ZW4yMDAx
+VFpBUFdDRVhBUUlBR1JIUg==
+mail from: <zhangkaiwen2001@163.com>
+rcpt to: <3252257325@qq.com>
+data
+from: <zhangkaiwen2001@163.com>
+to: <3252257325@qq.com>
+subject: testEmail
+
+
+Hello,long time no see.
+
+
+.

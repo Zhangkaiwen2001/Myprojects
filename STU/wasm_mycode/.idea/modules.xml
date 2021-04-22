@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/wasm_mycode.iml" filepath="$PROJECT_DIR$/.idea/wasm_mycode.iml" />
+      <module fileurl="file://D://Myprojects/../../MyProjects/STU/wasm_mycode/.idea/wasm_mycode.iml" filepath="D://Myprojects/../../MyProjects/STU/wasm_mycode/.idea/wasm_mycode.iml" />
     </modules>
   </component>
 </project>

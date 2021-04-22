@@ -1,7 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f98e5903-cdf2-4f03-9602-95bfb9799b72" name="Default Changelist" comment="" />
+    <list default="true" id="f98e5903-cdf2-4f03-9602-95bfb9799b72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/jb51.net/[30天自制操作系统].(川合秀实).周自恒等.扫描版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/jb51.net/mk.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/helloos0/asm.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/helloos0/asm.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/helloos0/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/helloos0/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/helloos1/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/OSASK0.PSF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/aksa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/aska.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/bim2bin.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/bim2hrb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/bin2obj.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/cc1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/com_mak.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/comcom.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/cpp0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/doscmd.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/dsar.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/edimg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/edimgopt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/esart5.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/fdimg0at.tek" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/fdimg0tw.tek" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/gas2nask.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/golib00.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/errno.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/float.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/gg00libc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/gg00old0.rul" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/golibc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/guigui00.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/guigui00.rul" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/limits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/math.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/setjmp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/stdarg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/stddef.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/stdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/stdlib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/guigui00/string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/errno.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/float.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/golibc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/haribote.rul" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/harilibc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/limits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/math.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/setjmp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/stdarg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/stddef.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/stdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/haribote/string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/imgtol.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/ld.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/make.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/makefont.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/nask.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/naskcnv0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/nothing.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/obj2bim.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/OSAIMGAT.BIN" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/OSASK.EXE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/OSASK0.PSF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/edimgopt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/manual.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/osalink1.opt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osa_qemu/timerdrv.tek" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/osalink1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/SDL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/bios.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/fdimage0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/qemu-win.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/qemu.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu/vgabios.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu_9x/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu_9x/SDL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu_9x/bios.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu_9x/qemu.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/qemu_9x/vgabios.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/sartol.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/sjisconv.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/t5lzma.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/upx.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/wce.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/errno.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/float.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/golibc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/libmingw.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/limits.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/math.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/setjmp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/stdarg.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/stddef.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/stdio.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/stdlib.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/string.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../30天学会操作系统/my_os/code/day01/z_tools/win32/w32clibc.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../STU/wasm_gitcode/pywasm" beforeDir="false" afterPath="$PROJECT_DIR$/../../../STU/wasm_gitcode/pywasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../STU/wasm_mycode/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../STU/wasm_mycode/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../STU/wasm_mycode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../STU/wasm_mycode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/.vs/ConsoleApplication1/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/.vs/ConsoleApplication1/v16/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/.vs/ConsoleApplication1/v16/ipch/AutoPCH/aca844cf67875a78/CONSOLEAPPLICATION1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/ConsoleApplication1.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleA.b41e4f16.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleApplication1.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleApplication1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/ConsoleApplication1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/ConsoleApplication1/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/Debug/ConsoleApplication1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/Debug/ConsoleApplication1.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ConsoleApplication1/Debug/ConsoleApplication1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab/ifa" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab/ifa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab/ifa-docs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab/ifa-docs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +146,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -23,14 +156,16 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1jabiDdcpwvLs0oXjmSckwHkU5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +181,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="E:\Program Files\Java\jdk1.8.0_281\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Exp03Game.Test" />
       <module name="Exp03" />
       <extension name="coverage">
@@ -54,6 +191,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="E:\Program Files\Java\jdk1.8.0_281\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,10 +223,29 @@
       <workItem from="1606398733672" duration="301000" />
       <workItem from="1611381940319" duration="584000" />
       <workItem from="1611382544233" duration="100000" />
+      <workItem from="1618227476300" duration="27000" />
+      <workItem from="1618227530289" duration="26000" />
+      <workItem from="1618932375267" duration="85000" />
+      <workItem from="1618933826365" duration="669000" />
+      <workItem from="1619007045839" duration="307000" />
+      <workItem from="1619007381664" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
