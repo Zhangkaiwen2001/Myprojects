@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.edu.dao.DepartmentMapper">
+
+    <!--增加一个Department-->
+    <insert id="addDepartment" parameterType="Departments">
+        insert into rds_mysql_15202iha.e3_department(departmentNo,departmentName,factoryName,leaderNo)
+        values (#{departmentNo}, #{departmentName},#{factoryName},#{leaderNo})
+    </insert>
+
+    <!--根据no删除一个Department-->
+    <delete id="deleteDepartmentByNo" parameterType="String">
+        delete from rds_mysql_15202iha.e3_department where departmentNo = #{departmentNo}
+    </delete>
+
+    <!--更新Department-->
+    <update id="updateDepartment" parameterType="Departments">
+        update rds_mysql_15202iha.e3_Department
+        set departmentName = #{departmentName},factoryName = #{factoryName},leaderNo = #{leaderNo}
+        where departmentNo = #{departmentNo}
+    </update>
+
+    <!--根据no查询,返回一个Department-->
+    <select id="queryDepartmentByNo" resultType="Departments">
+        select * from rds_mysql_15202iha.e3_department
+        where departmentNo = #{departmentNo}
+    </select>
+
+    <!--查询全部Department-->
+    <select id="queryAllDepartment" resultType="Departments">
+        SELECT * from rds_mysql_15202iha.e3_department
+    </select>
+
+    <select id="queryDepartmentByName" resultType="Departments">
+        select * from rds_mysql_15202iha.e3_department where departmentName = #{departmentName};
+    </select>
+
+    <select id="searchLeaderName" resultType="Leaders">
+        select Lno,Lage,Lname from rds_mysql_15202iha.e3_leader a left join rds_mysql_15202iha.e3_department b on a.Lno = b.leaderNo
+        where departmentNo = #{departmentNo};
+    </select>
+
+    <select id="searchEmployee" resultType="Employees">
+        select * from rds_mysql_15202iha.e3_employee where Dno = #{departmentNo}
+    </select>
+</mapper>

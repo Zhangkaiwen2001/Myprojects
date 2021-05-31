@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.edu.dao.ProjectMapper">
+
+    <!--增加一个Project-->
+    <insert id="addProject" parameterType="Projects">
+        insert into rds_mysql_15202iha.e3_project(Pno,budget,work_time,Pname,Dno)
+        values (#{Pno}, #{budget},#{work_time},#{Pname},#{Dno})
+    </insert>
+
+    <!--根据no删除一个Project-->
+    <delete id="deleteProjectByNo" parameterType="String">
+        delete from rds_mysql_15202iha.e3_project where Pno = #{Pno}
+    </delete>
+
+    <!--更新Project-->
+    <update id="updateProject" parameterType="Projects">
+        update rds_mysql_15202iha.e3_project
+        set Pname = #{Pname},budget = #{budget},work_time = #{work_time}
+        where Pno = #{Pno}
+    </update>
+
+    <!--根据no查询,返回一个Project-->
+    <select id="queryProjectByNo" resultType="Projects">
+        select * from rds_mysql_15202iha.e3_project
+        where Pno = #{Pno}
+    </select>
+
+    <!--查询全部Project-->
+    <select id="queryAllProject" resultType="Projects">
+        SELECT * from rds_mysql_15202iha.e3_project
+    </select>
+
+
+</mapper>

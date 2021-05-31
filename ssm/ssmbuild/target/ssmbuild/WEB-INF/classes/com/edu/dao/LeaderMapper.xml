@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.edu.dao.LeaderMapper">
+
+    <!--增加一个Leader-->
+    <insert id="addLeader" parameterType="Leaders">
+        insert into rds_mysql_15202iha.e3_leader(Lno,Lage,Lname)
+        values (#{Lno}, #{Lage},#{Lname})
+    </insert>
+
+    <!--根据no删除一个Leader-->
+    <delete id="deleteLeaderByNo" parameterType="String">
+        delete from rds_mysql_15202iha.e3_leader where Lno = #{Lno}
+    </delete>
+
+    <!--根据no查询,返回一个Department-->
+    <select id="queryLeaderByNo" resultType="Leaders">
+        select * from rds_mysql_15202iha.e3_leader
+        where Lno = #{Lno}
+    </select>
+
+    <!--更新Leader-->
+    <update id="updateLeader" parameterType="Leaders">
+        update rds_mysql_15202iha.e3_leader
+        set Lname = #{Lname},Lage = #{Lage}
+        where Lno = #{Lno}
+    </update>
+
+    <!--查询全部Leader-->
+    <select id="queryAllLeader" resultType="Leaders">
+        SELECT * from rds_mysql_15202iha.e3_leader
+    </select>
+
+</mapper>

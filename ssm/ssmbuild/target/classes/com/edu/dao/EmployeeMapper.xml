@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.edu.dao.EmployeeMapper">
+
+    <!--增加一个Employee-->
+    <insert id="addEmployee" parameterType="Employees">
+        insert into rds_mysql_15202iha.e3_employee(Eno,Ename,Eaddress,Eage,Dno,Esalary)
+        values (#{Eno}, #{Ename},#{Eaddress},#{Eage},#{Dno},#{Esalary})
+    </insert>
+
+    <!--根据no删除一个Employee-->
+    <delete id="deleteEmployeeByNo" parameterType="String">
+        delete from rds_mysql_15202iha.e3_employee where Eno = #{Eno}
+    </delete>
+
+    <!--更新Employee-->
+    <update id="updateEmployee" parameterType="Employees">
+        update rds_mysql_15202iha.e3_employee
+        set Ename = #{Ename},Eage = #{Eage},Eaddress = #{Eaddress},Dno = #{Dno},Esalary = #{Esalary}
+        where Eno = #{Eno}
+    </update>
+
+    <!--根据no查询,返回一个Employee-->
+    <select id="queryEmployeeByNo" resultType="Employees">
+        select * from rds_mysql_15202iha.e3_employee
+        where Eno = #{Eno}
+    </select>
+
+    <!--查询全部Employee-->
+    <select id="queryAllEmployee" resultType="Employees">
+        SELECT * from rds_mysql_15202iha.e3_employee
+    </select>
+
+
+</mapper>

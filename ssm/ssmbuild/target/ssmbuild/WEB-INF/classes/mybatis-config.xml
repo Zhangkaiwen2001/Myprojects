@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<!--配置数据源，交给spring去做-->
+    <typeAliases>
+        <package name="com.edu.pojo"/>
+    </typeAliases>
+    <mappers>
+        <mapper resource="com/edu/dao/DepartmentMapper.xml"/>
+        <mapper resource="com/edu/dao/EmployeeMapper.xml"/>
+        <mapper resource="com/edu/dao/FactoryMapper.xml"/>
+        <mapper resource="com/edu/dao/LeaderMapper.xml"/>
+        <mapper resource="com/edu/dao/ProjectMapper.xml"/>
+        <mapper resource="com/edu/dao/SupplierMapper.xml"/>
+        <mapper resource="com/edu/dao/PartMapper.xml"/>
+        <mapper resource="com/edu/dao/WarehouseMapper.xml"/>
+        <mapper resource="com/edu/dao/WorkMapper.xml"/>
+    </mappers>
+</configuration>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- 扫描service相关的bean -->
+    <context:component-scan base-package="com.edu.service" />
+
+    <!--ServiceImpl注入到IOC容器中-->
+
+    <bean id="DepartmentServiceImpl" class="com.edu.service.DepartmentServiceImpl">
+        <property name="departmentMapper" ref="departmentMapper"/>
+    </bean>
+
+    <bean id="LeaderServiceImpl" class="com.edu.service.LeaderServiceImpl">
+        <property name="leaderMapper" ref="leaderMapper"/>
+    </bean>
+
+    <bean id="EmployeeServiceImpl" class="com.edu.service.EmployeeServiceImpl">
+        <property name="employeeMapper" ref="employeeMapper"/>
+    </bean>
+
+    <bean id="ProjectServiceImpl" class="com.edu.service.ProjectServiceImpl">
+        <property name="projectMapper" ref="projectMapper"/>
+    </bean>
+
+    <bean id="SupplierServiceImpl" class="com.edu.service.SupplierServiceImpl">
+        <property name="supplierMapper" ref="supplierMapper"/>
+    </bean>
+
+    <bean id="FactoryServiceImpl" class="com.edu.service.FactoryServiceImpl">
+        <property name="factoryMapper" ref="factoryMapper"/>
+    </bean>
+
+    <bean id="PartServiceImpl" class="com.edu.service.PartServiceImpl">
+        <property name="partMapper" ref="partMapper"/>
+    </bean>
+
+    <bean id="WarehouseServiceImpl" class="com.edu.service.WarehouseServiceImpl">
+        <property name="warehouseMapper" ref="warehouseMapper"/>
+    </bean>
+
+    <bean id="WorkServiceImpl" class="com.edu.service.WorkServiceImpl">
+        <property name="workMapper" ref="workMapper"/>
+    </bean>
+
+    <!-- 配置事务管理器 -->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <!-- 注入数据库连接池 -->
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+</beans>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.edu.dao.WorkMapper">
+
+    <!--查询全部Leader-->
+    <select id="queryAllWorks" resultType="Works">
+        SELECT * from rds_mysql_15202iha.e3_works
+    </select>
+
+    <!--查询全部Leader-->
+    <select id="queryEmployeeByTime" parameterType="int" resultType="Employees">
+        SELECT * from rds_mysql_15202iha.e3_employee where Eno in (select Eno from rds_mysql_15202iha.e3_works group by Eno having sum(Hours) >= #{time})
+    </select>
+
+    <select id="searchEmployee" resultType="Employees">
+        select * from rds_mysql_15202iha.e3_employee where Eno = #{Eno}
+    </select>
+
+    <select id="searchProject" resultType="Projects">
+        select * from rds_mysql_15202iha.e3_Project where Pno = #{Pno}
+    </select>
+</mapper>
