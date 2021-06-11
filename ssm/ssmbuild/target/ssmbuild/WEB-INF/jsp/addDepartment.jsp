@@ -28,10 +28,10 @@
         </div>
     </div>
     <form action="${pageContext.request.contextPath}/department/addDepartment" method="post">
-        部门编号：<input type="text" name="departmentNo"><br><br><br>
-        部门名称：<input type="text" name="departmentName"><br><br><br>
-        部门主管号：<input type="text" name="leaderNo"><br><br><br>
-        部门所在工厂：<input type="text" name="factoryName"><br><br><br>
+        部门编号：<input type="text" name="departmentNo" required><br><br><br>
+        部门名称：<input type="text" name="departmentName" required><br><br><br>
+        部门主管号：<input type="text" name="leaderNo" required><br><br><br>
+        部门所在工厂：<input type="text" name="factoryName" required><br><br><br>
         <input type="submit" value="添加">
     </form>
 

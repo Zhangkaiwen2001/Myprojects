@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="dataSourceStorageLocal" created-in="IU-211.7142.45">
+  <component name="dataSourceStorageLocal" created-in="IU-211.7442.40">
     <data-source name="@rm-bp1oo27t8762xhlob0o.mysql.rds.aliyuncs.com" uuid="1b12201f-b188-4c29-b346-64830ef20258">
       <database-info product="MySQL" version="5.7.28-log" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.21 (Revision: 33f65445a1bcc544eb0120491926484da168f199)" dbms="MYSQL" exact-version="5.7.28" exact-driver-version="8.0">
         <extra-name-characters>#@</extra-name-characters>
