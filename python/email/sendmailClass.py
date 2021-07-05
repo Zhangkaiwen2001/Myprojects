@@ -1,6 +1,8 @@
 import smtplib
 from email.header import Header
 from email.mime.text import MIMEText
+
+
 class SendMail:
     def __init__(self,stmp_host,mail_user,mail_pwd,toaddr,subject,context):
         #邮箱服务器信息

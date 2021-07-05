@@ -16,7 +16,7 @@ def get_context():
     if rec_text == '':
         showinfo('提示', "接收人不能为空")
         return
-    s = SendMail("smtp.163.com", send_text, 'TZAPWCEXAQIAGRHR', rec_text, ti_text, con_text)
+    s = SendMail("smtp.qq.com", send_text, 'ubcphgbixniicjib', rec_text, ti_text, con_text)
     if s.sendE():
         showinfo('提示', "发送成功")
     else:
@@ -25,7 +25,7 @@ def get_context():
 
 def savemail():
     try:
-        with open("D:\\Myprojects\\python\\mailfile.txt", 'w') as f:
+        with open("/mailfile.txt", 'w') as f:
             f.write(var_receiver.get() + "\n")
             f.write(var_sender.get() + "\n")
             f.writelines(var_title.get() + "\n")
@@ -38,7 +38,7 @@ def savemail():
 
 def readmail():
     try:
-        with open("D:\\Myprojects\\python\\mailfile.txt", 'r') as f:
+        with open("/mailfile.txt", 'r') as f:
             clear()
             receiver = f.readline()
             print(receiver)
