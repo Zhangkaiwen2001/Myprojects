@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="767939e8-da4f-45ef-9118-3b58211753c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../OS/OS-master/projects/30_day/harib27f/haribote.img" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07c/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07c/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07c/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07c/make.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07d/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07d/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07d/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../OS/my_os/code/day10/harib07d/make.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../OS/my_os/code/z_tools/qemu/fdimage0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../OS/my_os/code/z_tools/qemu/fdimage0.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wasm_gitcode/pywasm" beforeDir="false" afterPath="$PROJECT_DIR$/../wasm_gitcode/pywasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa-docs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa-docs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../实验/实验一.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../实验/实验三.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../实验/实验二.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../实验/实验报告.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../实验/阿里云DMS链接.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/bookproject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/bookproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/bookproject/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/bookproject/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/bookproject/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/bookproject/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/bookproject/manage.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -130,50 +130,16 @@
       <workItem from="1618994313732" duration="18000" />
       <workItem from="1618994341961" duration="20000" />
       <workItem from="1620387835168" duration="46000" />
+      <workItem from="1625486426463" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617333059238">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617333059238" />
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1620387879013">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1620387879013" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1617334299844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617334299844" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1617334299844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617334299844" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1617334299844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617334299844" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1617334299844">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617334299844" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1617333146705">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617333146705" />
-    <state x="640" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1620387834539">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617333162163" />
-    <state x="640" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1620387834539" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wasm_mycode$env.coverage" NAME="env Coverage Results" MODIFIED="1617333229765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
-    <SUITE FILE_PATH="coverage/wasm_mycode$add.coverage" NAME="add Coverage Results" MODIFIED="1617333079982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/wasm_mycode$cycle.coverage" NAME="cycle Coverage Results" MODIFIED="1617333194191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/wasm_mycode$add.coverage" NAME="add Coverage Results" MODIFIED="1617333079982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/wasm_mycode$env.coverage" NAME="env Coverage Results" MODIFIED="1617333229765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
   </component>
 </project>
