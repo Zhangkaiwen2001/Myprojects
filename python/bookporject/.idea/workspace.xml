@@ -2,28 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1dcbe30-a80e-4f53-bdb2-c3baf38996b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bookporject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chart/UDPClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chart/UDPServe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/SMTPClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../STU/wasm_gitcode/pywasm" beforeDir="false" afterPath="$PROJECT_DIR$/../../STU/wasm_gitcode/pywasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../STU/wasm_mycode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../STU/wasm_mycode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa-docs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa-docs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/bookproject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/bookproject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/bookproject/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/bookproject/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/bookproject/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/bookproject/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bookproject/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021版python程序设计实验报告普及版.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../2021版python程序设计实验报告普及版.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SMTPClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPServe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/ReceiveStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../email/ReceiveStudy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +45,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1nq161WmJ0uxUmXZM1q1r1FQw45" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chart" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -103,10 +106,14 @@
       <workItem from="1612102634526" duration="15105000" />
       <workItem from="1625494453068" duration="1021000" />
       <workItem from="1625495905528" duration="36000" />
+      <workItem from="1625535129754" duration="1456000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

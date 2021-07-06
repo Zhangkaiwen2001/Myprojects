@@ -2,30 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06f387cc-d2ca-4fd8-b721-605ea339409f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chart.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email/POP3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UDPClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UDPServe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/SMTPClient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../STU/wasm_gitcode/pywasm" beforeDir="false" afterPath="$PROJECT_DIR$/../../STU/wasm_gitcode/pywasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab/ifa-docs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab/ifa-docs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SendStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../email/SendStudy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mailfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mailfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sendmailClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../email/sendmailClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/~$失物招领系统.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/图书管理.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/图书管理.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/图书管理.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/图书管理.~ml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/图书管理系统.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/失物招领.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/失物招领.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/失物招领.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/失物招领.~ml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/失物招领系统.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/失物招领系统.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/失物招领系统.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/失物招领系统.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../系统分析与设计/第二次作业.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../系统分析与设计/第二次作业.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021版python程序设计实验报告普及版.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../2021版python程序设计实验报告普及版.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SMTPClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPClient.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPServe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookporject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bookporject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../email/ReceiveStudy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../email/ReceiveStudy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../email" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -138,6 +130,7 @@
       <updated>1625303736797</updated>
       <workItem from="1625303738475" duration="1744000" />
       <workItem from="1625305513292" duration="601000" />
+      <workItem from="1625535145961" duration="454000" />
     </task>
     <servers />
   </component>

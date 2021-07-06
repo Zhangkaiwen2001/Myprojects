@@ -85,8 +85,8 @@ def clear():
 
 
 frm_S = Frame(frm)
-Button(frm_S, text="读取", command=readmail, width=6, height=1, font=('Arial', 10)).pack(side=RIGHT)
-Button(frm_S, text="重置", command=clear, width=6, height=1, font=('Arial', 10)).pack(side=LEFT)
+Button(frm_S, text="接收", command=readmail, width=6, height=1, font=('Arial', 10)).pack(side=RIGHT)
+Button(frm_S, text="清空", command=clear, width=6, height=1, font=('Arial', 10)).pack(side=LEFT)
 frm_S.pack(side=TOP)
 
 frm_L = Frame(frm)
